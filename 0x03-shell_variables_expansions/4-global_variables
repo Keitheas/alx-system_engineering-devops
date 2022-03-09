@@ -2,3 +2,5 @@
 printenv
 #!/bin/bash
 lsenv
+#!bin/bash
+printenv
